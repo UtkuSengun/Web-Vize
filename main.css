@@ -1,0 +1,43 @@
+		.h3{
+			background:#9be7ff;
+		}
+		.opacity{
+			opacity: 0.6;
+		}
+		.girinti{
+			text-indent: 25px;
+		}
+		.italic{
+			font-style: italic;
+		}
+		.boyut{
+			font-size: 1.3rem;
+		}
+		.icon{
+			width: 75px;
+			height: 50px;
+		}
+		.contact{
+			width: 500px;
+			display: flex;
+		}
+		.social{
+			width: 25px;
+			height: 25px;
+		}
+		.hover h5:hover{
+			background: #ffffff;
+			border-radius: 50px;
+			font-size: 2rem;
+		}
+		.background{
+			background: red;
+		}
+		.text1 {  /* satırlar arası yükseklik*/
+        line-height:10px;
+    	}
+    	.text2 {  /*kelimeler arası mesafe ayarlama */
+			word-spacing :15px;
+		}
+		
+				
